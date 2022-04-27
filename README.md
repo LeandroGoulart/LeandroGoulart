@@ -1,4 +1,4 @@
-Olá 🖖 eu sou o Leandro Goulart.
+#Bem vindo 🖖 eu sou o Leandro Goulart.
 
 Aqui você descobrirá um pouco mais sobre mim:
 
