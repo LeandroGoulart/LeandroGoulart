@@ -36,8 +36,8 @@
 
 <div>
   <a href="https://github.com/LeandroGoulart">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroGoulart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGoulart&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 ![Snake animation](https://github.com/LeandroGoulart/LeandroGoulart/blob/output/github-contribution-grid-snake.svg)
