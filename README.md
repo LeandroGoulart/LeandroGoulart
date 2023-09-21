@@ -34,4 +34,4 @@
 
 <br>
 
-[![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroGoulart)](https://github.com/LeandroGoulart/github-readme-stats)
+
