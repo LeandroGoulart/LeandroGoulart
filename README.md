@@ -3,10 +3,9 @@
 ### Aqui você descobrirá um pouco mais sobre mim:
 
 * 💼 Em busca de uma oportunidade.
-* 👨‍🎓 Estudo em curso: Análise e Desenvolvimento de Sistemas - UCA Faculdade Católica.
-* 📚 Estudos complementares: Python, CSS, HTML, Mysql.
+* 👨‍🎓 Formado em em: Análise e Desenvolvimento de Sistemas - UCA Faculdade Católica.
+* 📚 Estudos complementares: Python, CSS, HTML, Mysql, JavaScript.
 * 🤔 Curiosidade: Quando fiz técnico em mecatrônica e informática, acabei me apaixonando pela área de programação.
-* 🎮 Amo jogos, desafios e curiosidades do canal "Você Sabia" (são coisas inúteis, porém bem legais).
 * 🎯 Metas do ano: Conseguir um estágio na área, destacando-me em aprendizado e proatividade.
 * 🔥 Sonho em viajar e conhecer o restante do mundo, seja a passeio ou a trabalho.
 
