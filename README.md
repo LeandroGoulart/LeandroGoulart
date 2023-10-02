@@ -6,7 +6,7 @@
 * 👨‍🎓 Formado em em: Análise e Desenvolvimento de Sistemas - UCA Faculdade Católica.
 * 📚 Estudos complementares: Python, CSS, HTML, Mysql, JavaScript.
 * 🤔 Curiosidade: Quando fiz técnico em mecatrônica e informática, acabei me apaixonando pela área de programação.
-* 🎯 Metas do ano: Conseguir um estágio na área, destacando-me em aprendizado e proatividade.
+* 🎯 Metas do ano: Conseguir uma oportunidade na área.
 * 🔥 Sonho em viajar e conhecer o restante do mundo, seja a passeio ou a trabalho.
 
 ### Linguagens em aprendizado:
