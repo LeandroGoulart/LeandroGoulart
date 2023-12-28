@@ -2,10 +2,16 @@
 
 ### Aqui você descobrirá um pouco mais sobre mim:
 
-* 💼 Em busca de uma oportunidade.
-* 👨‍🎓 Formado em em: Análise e Desenvolvimento de Sistemas - UCA Faculdade Católica.
-* 📚 Estudos complementares: Python, CSS, HTML, Mysql, JavaScript.
-* 🤔 Curiosidade: Quando fiz técnico em mecatrônica e informática, acabei me apaixonando pela área de programação.
+Formado em análise e desenvolvimento de sistemas. Cursando pós em segurança da informação.
+Sou apaixonado por tecnologia e por aprender, além disso amo trabalhar em equipe e trocar experiências com os colegas.
+
+Sendo autodidata, busco constantemente me capacitar através de cursos e treinamentos online com objetivo de estar sempre atualizado com as últimas tendências do mercado.
+Mindset focado em construir soluções criativas e resolução de problemas, tornando os processos mais eficientes e eficazes. 
+
+
+Resiliente e adaptativo, não desisto dos meus objetivos.
+<p>Além disso, sou proativo, organizado e estou sempre aberto a novos desafios e oportunidades para crescer profissionalmente.
+
 * 🎯 Metas do ano: Conseguir uma oportunidade na área.
 * 🔥 Sonho em viajar e conhecer o restante do mundo, seja a passeio ou a trabalho.
 
@@ -21,6 +27,9 @@
 </div>
 
 ### Entre em contato:
+
+Caso queira entrar em contato comigo para discutir possíveis projetos e oportunidades, sinta-se à vontade para enviar uma mensagem.
+
 
 <div> 
     <a href="https://www.instagram.com/leovg33/" target="_blank">
