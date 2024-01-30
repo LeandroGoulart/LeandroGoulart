@@ -42,4 +42,6 @@ Caso queira entrar em contato comigo para discutir possíveis projetos e oportun
 
 <br>
 
+![Snake animation](https://github.com/LeandroGoulart/LeandroGoulart/blob/output/github-contribution-grid-snake.svg)
+
 
