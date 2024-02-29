@@ -40,8 +40,4 @@ Caso queira entrar em contato comigo para discutir possíveis projetos e oportun
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<br>
-
-![Snake animation](https://github.com/LeandroGoulart/LeandroGoulart/blob/output/github-contribution-grid-snake.svg)
-
 
