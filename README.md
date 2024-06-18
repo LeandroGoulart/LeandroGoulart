@@ -2,7 +2,7 @@
 
 ### Aqui você descobrirá um pouco mais sobre mim:
 
-* 💼 Em busca de uma oportunidade.
+* 💼 Em busca de uma oportunidade. Dev FullStack com foco em front.
 * 👨‍🎓 Formado em em: Análise e Desenvolvimento de Sistemas - UCA Faculdade Católica.
 * 📚 Estudos complementares: Python, CSS, HTML, Mysql, JavaScript.
 * 🤔 Curiosidade: Quando fiz técnico em mecatrônica e informática, acabei me apaixonando pela área de programação.
